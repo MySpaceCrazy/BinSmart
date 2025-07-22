@@ -51,7 +51,7 @@ st.set_page_config(
 st.markdown(
     '''
     <div style="display: flex; align-items: center;">
-        <img src="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/bin-9-2-removebg-preview.ico" width="80" style="margin-right: 15px;">
+        <img src="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/bin-9-2-removebg-preview.ico" width="90" style="margin-right: 15px;">
         <span style="font-size: 60px; font-weight: bold;">Simulador de Quantidade de Bins</span>
     </div>
     ''',
