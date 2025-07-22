@@ -43,7 +43,7 @@ print("✅ Banco logistica.db atualizado com sucesso.")
 # --- Configurações visuais iniciais da página ---
 st.set_page_config(
     page_title="BinSmart",
-    page_icon="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/CP-6423-01.ico",
+    page_icon="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/bin-9-2-removebg-preview.ico",
     layout="wide"
 )
 
@@ -51,7 +51,7 @@ st.set_page_config(
 st.markdown(
     '''
     <div style="display: flex; align-items: center;">
-        <img src="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/CP-6423-01.ico" width="80" style="margin-right: 15px;">
+        <img src="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/bin-9-2-removebg-preview.ico" width="80" style="margin-right: 15px;">
         <span style="font-size: 60px; font-weight: bold;">Simulador de Quantidade de Bins</span>
     </div>
     ''',
