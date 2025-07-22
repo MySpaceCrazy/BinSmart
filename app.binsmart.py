@@ -43,7 +43,7 @@ print("✅ Banco logistica.db atualizado com sucesso.")
 # --- Configurações visuais iniciais da página ---
 st.set_page_config(
     page_title="BinSmart",
-    page_icon="https://raw.githubusercontent.com/MySpaceCrazy/simulador_bin/refs/heads/main/Imagens/CP-6423-01.ico",
+    page_icon="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/CP-6423-01.ico",
     layout="wide"
 )
 
@@ -51,7 +51,7 @@ st.set_page_config(
 st.markdown(
     '''
     <div style="display: flex; align-items: center;">
-        <img src="https://raw.githubusercontent.com/MySpaceCrazy/simulador_bin/refs/heads/main/Imagens/CP-6423-01.ico" width="80" style="margin-right: 15px;">
+        <img src="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/CP-6423-01.ico" width="80" style="margin-right: 15px;">
         <span style="font-size: 60px; font-weight: bold;">Simulador de Quantidade de Bins</span>
     </div>
     ''',
@@ -458,10 +458,10 @@ st.markdown("""
     <p>Engenheiro de Dados | Soluções Logísticas | Automações</p>
     <div style="margin: 10px 0;">
         <a href="https://github.com/MySpaceCrazy" target="_blank">
-            <img src="https://raw.githubusercontent.com/MySpaceCrazy/simulador_bin/refs/heads/main/Imagens/github.ico" alt="GitHub" style="width: 32px; height: 32px; margin-right: 10px;">
+            <img src="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/github.ico" alt="GitHub" style="width: 32px; height: 32px; margin-right: 10px;">
         </a>
         <a href="https://www.linkedin.com/in/%C3%A2nderson-matheus-flores-de-oliveira-5b92781b4" target="_blank">
-            <img src="https://raw.githubusercontent.com/MySpaceCrazy/simulador_bin/refs/heads/main/Imagens/linkedin.ico" alt="LinkedIn" style="width: 32px; height: 32px;">
+            <img src="https://raw.githubusercontent.com/MySpaceCrazy/BinSmart/refs/heads/main/Imagens/linkedin.ico" alt="LinkedIn" style="width: 32px; height: 32px;">
         </a>
     </div>
     <p class="footer-text">© 2025 Ânderson Oliveira. Todos os direitos reservados.</p>
